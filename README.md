@@ -5,3 +5,6 @@ YOU WOULD REQUIRE THESE LIBRARIES :-
 TO DOWNLOAD THEM:-
 pip install opencv-python
 pip install mediapipe
+
+
+STUDY HAND UTILES IF ANY DOUBT WITH PNG
